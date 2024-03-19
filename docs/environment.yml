@@ -1,0 +1,6 @@
+name: rod
+channels:
+  - defaults
+dependencies:
+  - python
+  - urllib3
